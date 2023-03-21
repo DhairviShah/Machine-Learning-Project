@@ -1,0 +1,6 @@
+1) MAxpooling
+2) Convolutions
+3) Data Augmentation
+4) drop out
+5) transfer Learning
+6) freezing Parameters
