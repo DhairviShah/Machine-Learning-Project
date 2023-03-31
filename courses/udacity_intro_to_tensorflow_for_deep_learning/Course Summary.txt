@@ -9,3 +9,7 @@
 9) checkpoints
 10) Early stopping
 11) Optimizer
+12) LSTM CELL
+    - Forget Gate 
+    - Input Gate
+    - Output Gate
