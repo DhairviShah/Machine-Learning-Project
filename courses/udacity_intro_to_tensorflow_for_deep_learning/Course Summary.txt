@@ -4,3 +4,8 @@
 4) drop out
 5) transfer Learning
 6) freezing Parameters
+7) RNN
+8)CNN
+9) checkpoints
+10) Early stopping
+11) Optimizer
